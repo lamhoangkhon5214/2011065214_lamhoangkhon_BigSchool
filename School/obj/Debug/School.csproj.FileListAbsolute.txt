@@ -110,3 +110,13 @@ C:\Users\MSIs\source\repos\School\School\obj\Debug\School.Migrations.Khoitaocacb
 C:\Users\MSIs\source\repos\School\School\obj\Debug\School.csproj.GenerateResource.cache
 C:\Users\MSIs\source\repos\School\School\obj\Debug\School.Migrations.CreateTableCourse.resources
 C:\Users\MSIs\source\repos\School\School\obj\Debug\School.Migrations.PopulateCategoryTable.resources
+C:\Users\MSIs\source\repos\School\School\obj\Debug\School.Migrations.AddNameColumnToApplicationUser.resources
+C:\Users\MSIs\source\repos\School\School\obj\Debug\School.Migrations.AddAttendance.resources
+C:\Users\MSIs\source\repos\School\School\bin\System.Net.Http.Formatting.dll
+C:\Users\MSIs\source\repos\School\School\bin\System.Web.Http.dll
+C:\Users\MSIs\source\repos\School\School\bin\System.Web.Http.WebHost.dll
+C:\Users\MSIs\source\repos\School\School\bin\System.Net.Http.Formatting.xml
+C:\Users\MSIs\source\repos\School\School\bin\System.Web.Http.xml
+C:\Users\MSIs\source\repos\School\School\bin\System.Web.Http.WebHost.xml
+C:\Users\MSIs\source\repos\School\School\obj\Debug\School.Migrations.AddFollowingsTable.resources
+C:\Users\MSIs\source\repos\School\School\obj\Debug\School.Migrations.AddFollowingsTable1.resources
